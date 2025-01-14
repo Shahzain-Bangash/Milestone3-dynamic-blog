@@ -19,9 +19,9 @@ export default function Footer() {
            
           </div>
           <div className="text-center mt-[1rem]">
-          <p className="text-xs text-white text-[1.2rem] text-center md:text-center lg:text-center xl:text-center sm:text-right">
+          <p className=" text-white text-[1.2rem] text-center  sm:text-center md:text-center lg:text-center xl:text-center">
             © 2024 <span className="font-bold text-blue-700 ">Tech</span>
-            <span className="font-bold text-accentDarkPrimary ">BLOG</span> All rights reserved.
+            <span className="font-bold ">BLOG</span> All rights reserved.
           </p>
           </div>
         </div>
